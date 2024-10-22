@@ -6,7 +6,7 @@ This Python script tracks the **NIFTY50 index's highest closing value** and prin
 
 ## Features 🛠️
 
-- **Fetches today's closing value** of the NIFTY50 index.
+- **Fetches today's closing value** of the NIFTY50 index and NIFTY MIDCAP 50 index.
 - **Finds the all-time highest close** dynamically from Yahoo Finance historical data.
 - **Calculates the percentage drop** from the highest close if the latest close is lower.
 - **Prints a message** if a new peak is reached.
